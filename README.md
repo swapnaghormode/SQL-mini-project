@@ -1,4 +1,5 @@
 # SQL-mini-project
+# Functions used in this project
 -select
 -Create
 -Alter
