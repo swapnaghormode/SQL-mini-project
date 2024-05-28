@@ -1,0 +1,11 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+536365,85123A,White Hanging Heart T-Light Holder,6,01-12-2010 08:26,2.55,17850,United Kingdom
+536365,71053,White Metal Lantern,6,01-12-2010 08:26,3.39,17850,United Kingdom
+536366,22960,Jam Making Set With Jars,8,01-12-2010 08:28,4.25,17850,United Kingdom
+536367,21756,Baking Set 9 Piece Retrospot,3,01-12-2010 08:34,9.95,13047,United Kingdom
+536368,22633,Hand Warmer Union Jack,6,01-12-2010 08:34,1.85,13047,United Kingdom
+536368,22632,Hand Warmer Red Polka Dot,6,01-12-2010 08:34,1.85,13047,United Kingdom
+536369,84879,Cream Cupid Hearts Coat Hanger,8,01-12-2010 08:35,2.75,12583,France
+536370,22745,Poppy's Playhouse Bedroom,6,01-12-2010 08:45,2.1,12583,France
+536370,22748,Poppy's Playhouse Kitchen,6,01-12-2010 08:45,2.1,12583,France
+536371,22114,Hot Water Bottle White Fluffy,6,01-12-2010 09:00,3.75,13047,United Kingdom
